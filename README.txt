@@ -14,8 +14,8 @@ About the Program(Code):
             3. Corresponding webpage summary.
 
 Dependencies: (only 'context-search-2.py')
-    1. wikipediaapi
-    2. wikipedia
+    1. wikipediaapi - "pip install wikipediaapi"
+    2. wikipedia - "pip install wikipedia"
 
 Other information:
     There are two more programs - context-search-1.py  and  crawl-pages.py
